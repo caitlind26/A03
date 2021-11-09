@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ceed7dd-0c70-4543-b097-5093e465ce6a" name="Changes" comment="A09">
+    <list default="true" id="7ceed7dd-0c70-4543-b097-5093e465ce6a" name="Changes" comment="A11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,23 +28,33 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../IS117downloads/exercises/town_hall_1/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../IS117downloads/exercises/town_hall_1/sampson.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../IS117downloads/exercises/town_hall_1/speaker.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../IS117downloads/exercises/town_hall_1/styles/main.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../IS117downloads/exercises/town_hall_1/speakers/sampson.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1z5WeQRkbmCONpfAQXG9zHfee5B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IS117downloads/exercises/ch02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IS117downloads/exercises/town_hall_1/speakers" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IS117downloads\exercises\town_hall_1\speakers" />
+      <recent name="C:\IS117downloads\exercises\town_hall_1\styles" />
       <recent name="C:\IS117downloads\exercises\ch02" />
       <recent name="C:\IS117downloads\exercises\town_hall_1" />
-      <recent name="C:\IS117downloads\exercises\town_hall_1\speakers" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +73,11 @@
       <workItem from="1634647962904" duration="697000" />
       <workItem from="1634649111912" duration="2123000" />
       <workItem from="1635208522439" duration="613000" />
-      <workItem from="1635294081046" duration="8391000" />
+      <workItem from="1635294081046" duration="9425000" />
+      <workItem from="1635800582866" duration="3563000" />
+      <workItem from="1635857507443" duration="11078000" />
+      <workItem from="1636217643916" duration="6523000" />
+      <workItem from="1636401930116" duration="12841000" />
     </task>
     <task id="LOCAL-00001" summary="testpage">
       <created>1633969535472</created>
@@ -78,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634416454188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="A11">
+      <created>1635434838769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635434838769</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +129,7 @@
     <MESSAGE value="testpage" />
     <MESSAGE value="A08" />
     <MESSAGE value="A09" />
-    <option name="LAST_COMMIT_MESSAGE" value="A09" />
+    <MESSAGE value="A11" />
+    <option name="LAST_COMMIT_MESSAGE" value="A11" />
   </component>
 </project>
